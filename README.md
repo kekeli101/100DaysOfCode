@@ -6,7 +6,6 @@
 - Learned [Variables, Printing in Python]  
 
 
-
 ### 📅 Day 2 - Data Types and Basic Operations
 
 **Topics Covered:**
